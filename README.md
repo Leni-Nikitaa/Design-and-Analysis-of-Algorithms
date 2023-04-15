@@ -1,5 +1,4 @@
-
-#Design and Analysis of Algorithms
+# Design and Analysis of Algorithms
 
 
 This repository contains the implementation of algorithms and data structures covered in the course "Design and Analysis of Algorithms".
