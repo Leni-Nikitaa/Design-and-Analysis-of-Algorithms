@@ -45,3 +45,16 @@ Strassen's algorithm is an efficient algorithm for matrix multiplication. It use
 ### Usage
 
 You can use the code as a reference for implementing Strassen's algorithm for matrix multiplication in your own projects. To use the implementation provided in this, you can modify the input matrices in the `main` function and compile and run the program. The resulting matrix product will be printed to the console.
+
+## Finding Maximum and Minimum in an Array
+
+The implementation of the Divide and Conquer Algorithm to find the minimum and maximum elements in an array.
+
+### Algorithm
+
+The Divide and Conquer Algorithm to find the minimum and maximum elements in an array works as follows:
+
+1. If the array has only one element, return the element as both the minimum and maximum.
+2. If the array has two elements, return the larger element as the maximum and the smaller element as the minimum.
+3. If the array has more than two elements, divide the array into two halves and find the minimum and maximum elements in each half recursively.
+4. Compare the minimums and maximums of the two halves to get the final minimum and maximum elements of the entire array.
