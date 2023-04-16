@@ -33,3 +33,15 @@ The Quick Sort algorithm is a divide-and-conquer sorting algorithm that sorts an
 3. Recursively sort the two sub-arrays.
 
 In the implementation provided in this program, the pivot element is chosen as the first element of the array.
+
+## Strassen Matrix Multiplication
+
+An implementation of Strassen's algorithm for matrix multiplication.
+
+### Introduction
+
+Strassen's algorithm is an efficient algorithm for matrix multiplication. It uses a divide-and-conquer approach to reduce the number of multiplications required to compute the product of two matrices. The algorithm was developed by Volker Strassen in 1969.
+
+### Usage
+
+You can use the code as a reference for implementing Strassen's algorithm for matrix multiplication in your own projects. To use the implementation provided in this, you can modify the input matrices in the `main` function and compile and run the program. The resulting matrix product will be printed to the console.
