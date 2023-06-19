@@ -43,6 +43,7 @@ This repository contains implementations of the following algorithms:
 - Matrix Chain Multiplication
 - Depth First Search
 - Breadth First Search
+- N-Queens Problem
 
 ## Data Structures 
 
