@@ -1,7 +1,7 @@
 # Design and Analysis of Algorithms
 
 
-This repository contains the implementation of algorithms and data structures covered in the course "Design and Analysis of Algorithms".
+This repository contains the implementation of algorithms and data structures covered in the course "Design and Analysis of Algorithms" (for educational purpose).
 
 
 ## Table of Contents
@@ -41,6 +41,8 @@ This repository contains implementations of the following algorithms:
 - Factorial Knapsack Problem
 - Longest Common Subsequence
 - Matrix Chain Multiplication
+- Depth First Search
+- Breadth First Search
 
 ## Data Structures 
 
