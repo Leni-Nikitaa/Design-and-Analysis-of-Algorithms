@@ -45,6 +45,8 @@ This repository contains implementations of the following algorithms:
 - Breadth First Search
 - N-Queens Problem
 - Randomized Quick Sort
+- Traveling Salesman Problem
+
 ## Data Structures 
 
 This repository contains implementations of the following data structures:

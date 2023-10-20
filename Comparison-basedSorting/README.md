@@ -1,4 +1,4 @@
-# Randomized Quick Sort Implementation in C
+# Comparision-based Sorting Implementation in C
 
 This repository contains a C program that demonstrates the **Quick Sort** algorithm for sorting an array of integers. Quick Sort is a widely used comparison-based sorting algorithm known for its efficiency.
 
