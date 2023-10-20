@@ -44,7 +44,7 @@ This repository contains implementations of the following algorithms:
 - Depth First Search
 - Breadth First Search
 - N-Queens Problem
-
+- Randomized Quick Sort
 ## Data Structures 
 
 This repository contains implementations of the following data structures:
