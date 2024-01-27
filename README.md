@@ -46,6 +46,7 @@ This repository contains implementations of the following algorithms:
 - N-Queens Problem
 - Randomized Quick Sort
 - Traveling Salesman Problem
+- RRabin Karp String Matching Algorithm
 
 ## Data Structures 
 
